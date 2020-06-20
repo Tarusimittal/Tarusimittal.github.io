@@ -343,7 +343,7 @@ footer ul li{
 
 /*BLOGS PAGE*/
 .blog-main{
-  background-image: url('image/sky.jpg');
+  background-image:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url('image/sky.jpg');
 }
 .me-info{
   width: 100%;
