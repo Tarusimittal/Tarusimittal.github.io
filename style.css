@@ -69,15 +69,15 @@ mark {
     font-style:italic;
     font-weight:bold;
 }
-
-del {
-    text-decoration: line-through;
-}
-
 abbr[title], dfn[title] {
     border-bottom:1px dotted;
     cursor:help;
 }
+del {
+    text-decoration: line-through;
+}
+
+
 
 table {
     border-collapse:collapse;
@@ -91,7 +91,7 @@ hr {
     border:0;
     border-top:1px solid #cccccc;
     margin:1em 0;
-    padding:0;
+    padding:1;
 }
 
 input, select {
@@ -116,13 +116,13 @@ header{
 }
 header .header-brand {
   font-family:catamaran;
-  font-size: 30px;
+  font-size: 31px;
   font-weight: 600;
   color: #fff;
   display:block;
   margin: 0 auto;
   text-align:center;
-  padding: 25px 0;
+  padding: 25px 1;
 }
 
 header nav ul{
@@ -135,12 +135,12 @@ header nav ul li{
   display: inline-block;
   float: left;
   list style:none;
-  padding: 0 18px;
+  padding: 0 17px;
 }
 
 header nav ul li a{
   font-family:catamaran;
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 500;
   color: #fff;
 }
