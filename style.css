@@ -122,7 +122,7 @@ header .header-brand {
   display:block;
   margin: 0 auto;
   text-align:center;
-  padding: 20px 0;
+  padding: 25px 0;
 }
 
 header nav ul{
@@ -135,7 +135,7 @@ header nav ul li{
   display: inline-block;
   float: left;
   list style:none;
-  padding: 0 16px;
+  padding: 0 18px;
 }
 
 header nav ul li a{
