@@ -117,7 +117,7 @@ header{
 header .header-brand {
   font-family:catamaran;
   font-size: 30px;
-  font-weight: 600;
+  font-weight: 602;
   color: #fff;
   display:block;
   margin: 0 auto;
@@ -140,7 +140,7 @@ header nav ul li{
 
 header nav ul li a{
   font-family:catamaran;
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 500;
   color: #fff;
 }
